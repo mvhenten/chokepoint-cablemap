@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var fs = require('fs'),
     _ = require('lodash'),
     util = require('util'),
